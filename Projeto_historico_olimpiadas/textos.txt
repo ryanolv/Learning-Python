@@ -1,0 +1,18 @@
+O projeto visa apresentar dados sobre o historico das Olimpiadas.
+Portanto, digite numero da opcao que dados que quer levantar.
+
+1- Evolucao da idade media dos atletas do <Genero> que ganharam medalha de ouro
+em alguma das Olimpiadas. (grafico de linhas)
+
+2- Quantidade de atletas dos <X> esportes com maior numero de atletas na
+olimpiada de <Ano> de <Tipo de Olimpiada>. (grafico de barras)
+
+3- Peso dos atletas de <Genero> a cada ano. (grafico boxplot)
+
+4- Em que <Ano> houve maior participacao de atletas? De qual sexo? (resposta textutal)
+
+5- Evolucao da media do IMC dos atletas no periodo que vai desde o <ano 1> ate o
+<ano 2> em olimpiadas do <tipo de olimpiada>, separados por sexo (duas linhas
+no mesmo grafico)
+
+0- Fechar programa.
